@@ -1,0 +1,100 @@
+body{
+  background-color: #4b546f;
+  color: black;
+}
+
+.error {color: #FF0000;}
+
+.backgroundwrap{
+  z-index: -100;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+#bgvid{
+  min-width: 100%;
+  min-height: 90%;
+  top: inherit;
+  width: 100%;
+  height: auto;
+  background: url("src/JapanesePhoto.png") no-repeat;
+  background-size: cover;
+}
+
+.bodywrapper{
+  width: 100%;
+}
+
+header{
+  position: fixed;
+  top: 0;
+  width: 99%;
+  right: 0.5%;
+  height: inherit;
+  color: white;
+  z-index: 100;
+}
+
+.content{
+  width: 70%;
+  overflow: auto;
+  background-color: #FFF;
+  margin-bottom: 1%;
+  border-radius: 15px 50px 30px 5px;
+  padding: 1%;
+}
+
+footer{
+  width:98%;
+  height:content;   /* Height of the footer */
+  color: white;
+  padding: 1%;
+  border-radius: 25px;
+  background-color: rgb(40, 50, 78);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.transparentHeaderColor{
+  background-color: rgba(40, 50, 78, 0.7);
+}
+
+.opaqueHeaderColor{
+  background-color: #4b546f;
+}
+
+li {
+  display: table;
+  float: left;
+  width: 11%;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 20% 0% 20% 15%;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color: black;
+}
+
+a:active {
+  background-color: white;
+  color: blue;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
