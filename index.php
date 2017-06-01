@@ -26,10 +26,7 @@
     </header>
 
     <div class="content">
-      <div>
-        Principal sms(SUJIT GHISING)
-        Japan, the leading economic giant of the world, is not only famous for its industralisation, peace loving people and unique hospitality but also famous for imparting practical knowledge to its pupils. To the Nepalese students, it has been an academic destination for more than
-        Nippon Japanese language institute Pvt .ltd,founded in 2016,by a team of competent and dedicated Japanese language teachers, with the sole purpose of spreading the Japanese culture in the world through its language, has been able to establish its name both in Nepal and Japan. Our specially designed course is comprised of the goal directed theoritical and practical knowledge. We are also committed to develop various skills in our students through the latest techniques of learning. For this, we have maintained small-size class rooms, native instructors, a well- equipped audio-visual language laboratory cum library, etc. As a result, hundreds of our school-graduates have managed to go to Japan for their higher studies..
+      <div id="Dipesh">
       </div>
     </div>
 
